@@ -1,4 +1,6 @@
- InnerEase – Calm. Heal. Grow.
+
+🌿 InnerEase – Calm Heal Grow
+
 InnerEase is a simple yet powerful Flutter application designed to help individuals manage stress and regain mental clarity. With a blend of audio, video, and parenting guidance, it offers a one-stop solution for emotional well-being.
 
 ✨ Features
