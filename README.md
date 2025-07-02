@@ -1,16 +1,32 @@
-# samyak
+ InnerEase – Calm. Heal. Grow.
+InnerEase is a simple yet powerful Flutter application designed to help individuals manage stress and regain mental clarity. With a blend of audio, video, and parenting guidance, it offers a one-stop solution for emotional well-being.
 
-A new Flutter project.
+✨ Features
+🎧 Spiritual Audio Integration – Hanuman Chalisa and other devotional content via Spotify
 
-## Getting Started
+🎥 Motivational Videos – Curated YouTube content to uplift and inspire
 
-This project is a starting point for a Flutter application.
+👪 Parenting Section – Helpful insights and support for stressed parents
 
-A few resources to get you started if this is your first Flutter project:
+🔐 Login & Account Creation – Secure and smooth user experience
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+🚀 Tech Stack
+Flutter (Frontend)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Dart
+
+Clean UI with responsive design
+
+📷 Screenshots
+(Add splash screen, login screen, and dashboard images here if available)
+
+📦 Getting Started
+bash
+Copy
+Edit
+git clone https://github.com/your-username/innerease.git
+cd innerease
+flutter pub get
+flutter run
+📄 License
+This project is licensed under the MIT License – feel free to use and contribute!
